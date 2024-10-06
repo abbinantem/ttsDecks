@@ -1,4 +1,4 @@
-{
+<{
     "1": {
         "title": "Zombies Invasion",
         "red": "Fatty x2",
@@ -256,28 +256,28 @@
         "red": "All Standard Walkers",
         "orange": "All Standard Walkers",
         "yellow": "All Standard Walkers",
-        "blue": ""
+        "blue": "Nobody"
     },
     "38": {
         "title": "Extra Activation",
         "red": "All Standard Walkers",
         "orange": "All Standard Walkers",
         "yellow": "All Standard Walkers",
-        "blue": ""
+        "blue": "Nobody"
     },
     "39": {
         "title": "Extra Activation",
         "red": "All Standard Fatties",
         "orange": "All Standard Fatties",
         "yellow": "All Standard Fatties",
-        "blue": ""
+        "blue": "Nobody"
     },
     "40": {
         "title": "Extra Activation",
         "red": "All Standard Runners",
         "orange": "All Standard Runners",
         "yellow": "All Standard Runners",
-        "blue": ""
+        "blue": "Nobody"
     },
     "41": {
         "title": "Necromancer!",
