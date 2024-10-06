@@ -1,994 +1,870 @@
-[
-  {
-    "title": "Zombies Invasion",
-    "id": "1",
-    "red": "Fatty x2",
-    "orange": "Walker x5",
-    "yellow": "Runner x2",
-    "blue": ""
-  },
-  {
-    "title": "Zombies Invasion",
-    "id": "2",
-    "red": "Walker x5",
-    "orange": "Walker x5",
-    "yellow": "Fatty x2",
-    "blue": ""
-  },
-  {
-    "title": "Zombies Invasion",
-    "id": "3",
-    "red": "Runner x2",
-    "orange": "Runner x3",
-    "yellow": "Walker x4",
-    "blue": ""
-  },
-  {
-    "title": "Zombies Invasion",
-    "id": "4",
-    "red": "Fatty M x3",
-    "orange": "Fatty x3",
-    "yellow": "Runner x1",
-    "blue": "Walker x1"
-  },
-  {
-    "title": "Zombies Invasion",
-    "id": "5",
-    "red": "Walker x5",
-    "orange": "Walker x4",
-    "yellow": "Fatty x1",
-    "blue": "Walker x1"
-  },
-  {
-    "title": "Zombies Invasion",
-    "id": "6",
-    "red": "Runner x3",
-    "orange": "Runner x1",
-    "yellow": "Walker x2",
-    "blue": "Walker x1"
-  },
-  {
-    "title": "Zombies Invasion",
-    "id": "7",
-    "red": "Fatty x3",
-    "orange": "Fatty x1",
-    "yellow": "Runner x1",
-    "blue": "Walker x2"
-  },
-  {
-    "title": "Zombies Invasion",
-    "id": "8",
-    "red": "Walker x6",
-    "orange": "Walker x4",
-    "yellow": "Fatty x1",
-    "blue": "Walker x3"
-  },
-  {
-    "title": "Zombies Invasion",
-    "id": "9",
-    "red": "Runner x3",
-    "orange": "Runner x2",
-    "yellow": "Walker x2",
-    "blue": "Fatty x1"
-  },
-  {
-    "title": "Zombies Invasion",
-    "id": "10",
-    "red": "Walker x5",
-    "orange": "Fatty x2",
-    "yellow": "Walker x2",
-    "blue": "Fatty x1"
-  },
-  {
-    "title": "Zombies Invasion",
-    "id": "11",
-    "red": "Walker x6",
-    "orange": "Walker x3",
-    "yellow": "Walker x3",
-    "blue": "Runner x1"
-  },
-  {
-    "title": "Zombies Invasion",
-    "id": "12",
-    "red": "Walker x5",
-    "orange": "Walker x3",
-    "yellow": "Walker x3",
-    "blue": "Runner x1"
-  },
-  {
-    "title": "Zombies Invasion",
-    "id": "13",
-    "red": "Fatty x2",
-    "orange": "Walker x5",
-    "yellow": "Runner x1",
-    "blue": "Abomination"
-  },
-  {
-    "title": "Zombies Invasion",
-    "id": "14",
-    "red": "Runner x3",
-    "orange": "Fatty x1",
-    "yellow": "Abomination x1",
-    "blue": "Walker x2"
-  },
-  {
-    "title": "Zombies Invasion",
-    "id": "15",
-    "red": "Walker x6",
-    "orange": "Abomination x1",
-    "yellow": "Fatty x1",
-    "blue": "Walker x2"
-  },
-  {
-    "title": "Zombies Invasion",
-    "id": "16",
-    "red": "Abomination x1",
-    "orange": "Runner x2",
-    "yellow": "Walker x3",
-    "blue": "Walker x1"
-  },
-  {
-    "title": "Zombies Invasion",
-    "id": "17",
-    "red": "Runner x6",
-    "orange": "Fatty x3",
-    "yellow": "Runner x2",
-    "blue": "Walker x1"
-  },
-  {
-    "title": "Zombies Invasion",
-    "id": "18",
-    "red": "Walker x5",
-    "orange": "Walker x4",
-    "yellow": "Fatty x1",
-    "blue": "Runner x1"
-  },
-  {
-    "title": "Zombies Invasion",
-    "id": "19",
-    "red": "Fatty x3",
-    "orange": "Runner x2",
-    "yellow": "Walker x4",
-    "blue": "Walker x1"
-  },
-  {
-    "title": "Zombies Invasion",
-    "id": "20",
-    "red": "Runner x2",
-    "orange": "Walker x6",
-    "yellow": "Runner x1",
-    "blue": "Fatty x1"
-  },
-  {
-    "title": "Zombies Invasion",
-    "id": "21",
-    "red": "Walker x8",
-    "orange": "Runner x2",
-    "yellow": "Fatty x2",
-    "blue": "Walker x1"
-  },
-  {
-    "title": "Zombies Invasion",
-    "id": "22",
-    "red": "Walker x7",
-    "orange": "Fatty x2",
-    "yellow": "Walker x2",
-    "blue": "Fatty x1"
-  },
-  {
-    "title": "Zombies Invasion",
-    "id": "23",
-    "red": "Fatty x3",
-    "orange": "Walker x4",
-    "yellow": "Walker x4",
-    "blue": "Runner x1"
-  },
-  {
-    "title": "Zombies Invasion",
-    "id": "24",
-    "red": "Runner x3",
-    "orange": "Walker x5",
-    "yellow": "Walker x3",
-    "blue": "Fatty x1"
-  },
-  {
-    "title": "Zombies Invasion",
-    "id": "25",
-    "red": "Fatty x2",
-    "orange": "Walker x5",
-    "yellow": "Runner x1",
-    "blue": "Abomination x1"
-  },
-  {
-    "title": "Zombies Invasion",
-    "id": "26",
-    "red": "Runner x3",
-    "orange": "Fatty x1",
-    "yellow": "Abomination x1",
-    "blue": "Walker x2"
-  },
-  {
-    "title": "Zombies Invasion",
-    "id": "27",
-    "red": "Walker x6",
-    "orange": "Abomination x1",
-    "yellow": "Fatty x1",
-    "blue": "Walker x2"
-  },
-  {
-    "title": "Zombies Invasion",
-    "id": "28",
-    "red": "Abomination x1",
-    "orange": "Runner x2",
-    "yellow": "Walker x3",
-    "blue": "Walker x1"
-  },
-  {
-    "title": "Zombies Invasion",
-    "id": "29",
-    "red": "Runner x6",
-    "orange": "Fatty x3",
-    "yellow": "Runner x2",
-    "blue": "Walker x1"
-  },
-  {
-    "title": "Zombies Invasion",
-    "id": "30",
-    "red": "Walker x5",
-    "orange": "Walker x4",
-    "yellow": "Fatty x1",
-    "blue": "Runner x1"
-  },
-  {
-    "title": "Zombies Invasion",
-    "id": "31",
-    "red": "Fatty x3",
-    "orange": "Runner x2",
-    "yellow": "Walker x4",
-    "blue": "Walker x1"
-  },
-  {
-    "title": "Zombies Invasion",
-    "id": "32",
-    "red": "Runner x2",
-    "orange": "Walker x6",
-    "yellow": "Runner x1",
-    "blue": "Fatty x1"
-  },
-  {
-    "title": "Zombies Invasion",
-    "id": "33",
-    "red": "Walker x8",
-    "orange": "Runner x2",
-    "yellow": "Fatty x2",
-    "blue": "Walker x1"
-  },
-  {
-    "title": "Zombies Invasion",
-    "id": "34",
-    "red": "Walker x7",
-    "orange": "Fatty x2",
-    "yellow": "Walker x2",
-    "blue": "Fatty x1"
-  },
-  {
-    "title": "Zombies Invasion",
-    "id": "35",
-    "red": "Fatty x3",
-    "orange": "Walker x4",
-    "yellow": "Walker x4",
-    "blue": "Runner x1"
-  },
-  {
-    "title": "Zombies Invasion",
-    "id": "36",
-    "red": "Runner x3",
-    "orange": "Walker x5",
-    "yellow": "Walker x3",
-    "blue": "Fatty x1"
-  },
-  {
-    "title": "Extra Activation",
-    "id": "37",
-    "red": "All Standard Walkers",
-    "orange": "All Standard Walkers",
-    "yellow": "All Standard Walkers",
-    "blue": ""
-  },
-  {
-    "title": "Extra Activation",
-    "id": "38",
-    "red": "All Standard Walkers",
-    "orange": "All Standard Walkers",
-    "yellow": "All Standard Walkers",
-    "blue": ""
-  },
-  {
-    "title": "Extra Activation",
-    "id": "39",
-    "red": "All Standard Fatties",
-    "orange": "All Standard Fatties",
-    "yellow": "All Standard Fatties",
-    "blue": ""
-  },
-  {
-    "title": "Extra Activation",
-    "id": "40",
-    "red": "All Standard Runners",
-    "orange": "All Standard Runners",
-    "yellow": "All Standard Runners",
-    "blue": ""
-  },
-  {
-    "title": "Necromancer!",
-    "id": "41",
-    "red": "Necromancer",
-    "orange": "Necromancer",
-    "yellow": "Necromancer",
-    "blue": "Necromancer"
-  },
-  {
-    "title": "Necromancer!",
-    "id": "42",
-    "red": "Necromancer",
-    "orange": "Necromancer",
-    "yellow": "Necromancer",
-    "blue": "Necromancer"
-  },
-  {
-    "title": "Necromancer!",
-    "id": "43",
-    "red": "Necromancer",
-    "orange": "Necromancer",
-    "yellow": "Necromancer",
-    "blue": "Necromancer"
-  },
-  {
-    "title": "Necromancer!",
-    "id": "44",
-    "red": "Necromancer",
-    "orange": "Necromancer",
-    "yellow": "Necromancer",
-    "blue": "Necromancer"
-  },
-  {
-    "title": "Necromancer!",
-    "id": "45",
-    "red": "Necromancer",
-    "orange": "Necromancer",
-    "yellow": "Necromancer",
-    "blue": "Necromancer"
-  },
-  {
-    "title": "Necromancer!",
-    "id": "46",
-    "red": "Necromancer",
-    "orange": "Necromancer",
-    "yellow": "Necromancer",
-    "blue": "Necromancer"
-  },
-  {
-    "title": "Double Spawn!",
-    "id": "47",
-    "red": "Double Spawn",
-    "orange": "Double Spawn",
-    "yellow": "Double Spawn",
-    "blue":  "Double Spawn"
-  },
-  {
-    "title": "Double Spawn!",
-    "id": "48",
-    "red": "Double Spawn",
-    "orange": "Double Spawn",
-    "yellow": "Double Spawn",
-    "blue":  "Double Spawn"
-  },
-  {
-    "title": "Double Spawn!",
-    "id": "49",
-    "red": "Double Spawn",
-    "orange": "Double Spawn",
-    "yellow": "Double Spawn",
-    "blue":  "Double Spawn"
-  },
-  {
-    "title": "Double Spawn!",
-    "id": "50",
-    "red": "Double Spawn",
-    "orange": "Double Spawn",
-    "yellow": "Double Spawn",
-    "blue":  "Double Spawn"
-  },
-  {
-    "title": "Double Spawn!",
-    "id": "51",
-    "red": "Double Spawn",
-    "orange": "Double Spawn",
-    "yellow": "Double Spawn",
-    "blue":  "Double Spawn"
-  },
-  {
-    "title": "Double Spawn!",
-    "id": "52",
-    "red": "Double Spawn",
-    "orange": "Double Spawn",
-    "yellow": "Double Spawn",
-    "blue":  "Double Spawn"
-  },
-  {
-    "title": "Double Spawn!",
-    "id": "53",
-    "red": "Double Spawn",
-    "orange": "Double Spawn",
-    "yellow": "Double Spawn",
-    "blue":  "Double Spawn"
-  },
-  {
-    "title": "Double Spawn!",
-    "id": "54",
-    "red": "Double Spawn",
-    "orange": "Double Spawn",
-    "yellow": "Double Spawn",
-    "blue":  "Double Spawn"
-  },
-  {
-    "title": "Wolfz Zombie Invasion",
-    "id": "55",
-    "red": "Wolfz x4",
-    "orange": "Wolfz x3",
-    "yellow": "Wolfz x2",
-    "blue": "Wolfz x1"
-  },
-  {
-    "title": "Zombie Wolfz Invasion",
-    "id": "56",
-    "red": "Wolfz x5",
-    "orange": "Wolfz x4",
-    "yellow": "Wolfz x3",
-    "blue": "Wolfz x2"
-  },
-  {
-    "title": "Wolfz Zombie invasion",
-    "id": "57",
-    "red": "Wolfz x6",
-    "orange": "Wolfz x5",
-    "yellow": "Wolfz x4",
-    "blue": "Wolfz x3"
-  },
-  {
-    "title": "Zombie Wolfz Invasion",
-    "id": "58",
-    "red": "Wolfz x4",
-    "orange": "Wolfz x3",
-    "yellow": "Wolfz x2",
-    "blue": "Wolfz x1"
-  },
-  {
-    "title": "Wolfz Zombie invasion",
-    "id": "59",
-    "red": "Wolfz x5",
-    "orange": "Wolfz x4",
-    "yellow": "Wolfz x3",
-    "blue": "Wolfz x2"
-  },
-  {
-    "title": "Zombie Wolfz Invasion",
-    "id": "60",
-    "red": "Wolfz x6",
-    "orange": "Wolfz x5",
-    "yellow": "Wolfz x4",
-    "blue": "Wolfz x3"
-  },
-  {
-    "title": "Wolfbomination!",
-    "id": "61",
-    "red": "Wolfbomination",
-    "orange": "Wolfbomination",
-    "yellow": "Wolfbomination",
-    "blue": ""
-  },
-  {
-    "title": "Wolfbomination!",
-    "id": "62",
-    "red": "Wolfbomination",
-    "orange": "Wolfbomination",
-    "yellow": "Wolfbomination",
-    "blue": ""
-  },
-  {
-    "title": "Zombie N.P.C. Invasion",
-    "id": "63",
-    "red": "N.P.C. x5",
-    "orange": "N.P.C. x4",
-    "yellow": "N.P.C. x4",
-    "blue": ""
-  },
-  {
-    "title": "Zombie N.P.C. Invasion",
-    "id": "64",
-    "red": "N.P.C. x7",
-    "orange": "N.P.C. x6",
-    "yellow": "N.P.C. x1",
-    "blue": "N.P.C. x1"
-  },
-  {
-    "title": "Zombie N.P.C. Invasion",
-    "id": "65",
-    "red": "N.P.C. x8",
-    "orange": "N.P.C. x2",
-    "yellow": "N.P.C. x2",
-    "blue": "N.P.C. x1"
-  },
-  {
-    "title": "Zombie N.P.C. Invasion",
-    "id": "66",
-    "red": "N.P.C. x4",
-    "orange": "N.P.C. x4",
-    "yellow": "N.P.C. x3",
-    "blue": "N.P.C. x2"
-  },
-  {
-    "title": "Zombie N.P.C. Invasion",
-    "id": "67",
-    "red": "N.P.C. x5",
-    "orange": "N.P.C. x4",
-    "yellow": "N.P.C. x4",
-    "blue": ""
-  },
-  {
-    "title": "Zombie N.P.C. Invasion",
-    "id": "68",
-    "red": "N.P.C. x7",
-    "orange": "N.P.C. x6",
-    "yellow": "N.P.C. x1",
-    "blue": "N.P.C. x1"
-  },
-  {
-    "title": "Zombie N.P.C. Invasion",
-    "id": "69",
-    "red": "N.P.C. x8",
-    "orange": "N.P.C. x2",
-    "yellow": "N.P.C. x2",
-    "blue": "N.P.C. x1"
-  },
-  {
-    "title": "Zombie N.P.C. Invasion",
-    "id": "70",
-    "red": "N.P.C. x4",
-    "orange": "N.P.C. x4",
-    "yellow": "N.P.C. x3",
-    "blue": "N.P.C. x2"
-  },
-  {
-    "title": "Zombie N.P.C. Invasion",
-    "id": "71",
-    "red": "N.P.C. x5",
-    "orange": "N.P.C. x4",
-    "yellow": "N.P.C. x4",
-    "blue": ""
-  },
-  {
-    "title": "Zombie N.P.C. Invasion",
-    "id": "72",
-    "red": "N.P.C. x7",
-    "orange": "N.P.C. x6",
-    "yellow": "N.P.C. x1",
-    "blue": "N.P.C. x1"
-  },
-  {
-    "title": "Zombie N.P.C. Invasion",
-    "id": "73",
-    "red": "N.P.C. x8",
-    "orange": "N.P.C. x2",
-    "yellow": "N.P.C. x2",
-    "blue": "N.P.C. x1"
-  },
-  {
-    "title": "Zombie N.P.C. Invasion",
-    "id": "74",
-    "red": "N.P.C. x4",
-    "orange": "N.P.C. x4",
-    "yellow": "N.P.C. x3",
-    "blue": "N.P.C. x2"
-  },
-  {
-    "title": "Zombie N.P.C. Invasion",
-    "id": "75",
-    "red": "N.P.C. x5",
-    "orange": "N.P.C. x4",
-    "yellow": "N.P.C. x4",
-    "blue": ""
-  },
-  {
-    "title": "Zombie N.P.C. Invasion",
-    "id": "76",
-    "red": "N.P.C. x7",
-    "orange": "N.P.C. x6",
-    "yellow": "N.P.C. x1",
-    "blue": "N.P.C. x1"
-  },
-  {
-    "title": "Zombie N.P.C. Invasion",
-    "id": "77",
-    "red": "N.P.C. x8",
-    "orange": "N.P.C. x2",
-    "yellow": "N.P.C. x2",
-    "blue": "N.P.C. x1"
-  },
-  {
-    "title": "Zombie N.P.C. Invasion",
-    "id": "78",
-    "red": "N.P.C. x4",
-    "orange": "N.P.C. x4",
-    "yellow": "N.P.C. x3",
-    "blue": "N.P.C. x2"
-  },
-  {
-    "title": "Zombie N.P.C. Invasion",
-    "id": "79",
-    "red": "N.P.C. x5",
-    "orange": "N.P.C. x4",
-    "yellow": "N.P.C. x4",
-    "blue": ""
-  },
-  {
-    "title": "Zombie N.P.C. Invasion",
-    "id": "80",
-    "red": "N.P.C. x7",
-    "orange": "N.P.C. x6",
-    "yellow": "N.P.C. x1",
-    "blue": "N.P.C. x1"
-  },
-  {
-    "title": "Zombie N.P.C. Invasion",
-    "id": "81",
-    "red": "N.P.C. x8",
-    "orange": "N.P.C. x2",
-    "yellow": "N.P.C. x2",
-    "blue": "N.P.C. x1"
-  },
-  {
-    "title": "Zombie N.P.C. Invasion",
-    "id": "82",
-    "red": "N.P.C. x4",
-    "orange": "N.P.C. x4",
-    "yellow": "N.P.C. x3",
-    "blue": "N.P.C. x2"
-  },
-  {
-    "title": "Zombie N.P.C. Invasion",
-    "id": "83",
-    "red": "N.P.C. x5",
-    "orange": "N.P.C. x4",
-    "yellow": "N.P.C. x4",
-    "blue": ""
-  },
-  {
-    "title": "Zombie N.P.C. Invasion",
-    "id": "84",
-    "red": "N.P.C. x7",
-    "orange": "N.P.C. x6",
-    "yellow": "N.P.C. x1",
-    "blue": "N.P.C. x1"
-  },
-  {
-    "title": "Zombie N.P.C. Invasion",
-    "id": "85",
-    "red": "N.P.C. x8",
-    "orange": "N.P.C. x2",
-    "yellow": "N.P.C. x2",
-    "blue": "N.P.C. x1"
-  },
-  {
-    "title": "Zombie N.P.C. Invasion",
-    "id": "86",
-    "red": "N.P.C. x4",
-    "orange": "N.P.C. x4",
-    "yellow": "N.P.C. x3",
-    "blue": "N.P.C. x2"
-  },
-  {
-    "title": "Ablobination!",
-    "id": "87",
-    "red": "Ablobination",
-    "orange": "Ablobination",
-    "yellow": "Ablobination",
-    "blue": ""
-  },
-  {
-    "title": "Ablobination!",
-    "id": "88",
-    "red": "Ablobination",
-    "orange": "Ablobination",
-    "yellow": "Ablobination",
-    "blue": ""
-  },
-  {
-    "title": "Ablobination!",
-    "id": "89",
-    "red": "Ablobination",
-    "orange": "Ablobination",
-    "yellow": "Ablobination",
-    "blue": ""
-  },
-  {
-    "title": "Ablobination!",
-    "id": "90",
-    "red": "Ablobination",
-    "orange": "Ablobination",
-    "yellow": "Ablobination",
-    "blue": ""
-  },
-  {
-    "title": "Abominatroll!",
-    "id": "91",
-    "red": "Abominatroll",
-    "orange": "Abominatroll",
-    "yellow": "Abominatroll",
-    "blue": ""
-  },
-  {
-    "title": "Abominatroll!",
-    "id": "92",
-    "red": "Abominatroll",
-    "orange": "Abominatroll",
-    "yellow": "Abominatroll",
-    "blue": ""
-  },
-  {
-    "title": "Abominatroll!",
-    "id": "93",
-    "red": "Abominatroll",
-    "orange": "Abominatroll",
-    "yellow": "Abominatroll",
-    "blue": ""
-  },
-  {
-    "title": "Abominatroll!",
-    "id": "94",
-    "red": "Abominatroll",
-    "orange": "Abominatroll",
-    "yellow": "Abominatroll",
-    "blue": ""
-  },
-  {
-    "title": "Abominotaur!",
-    "id": "95",
-    "red": "Abominotaur",
-    "orange": "Abominotaur",
-    "yellow": "Abominotaur",
-    "blue": ""
-  },
-  {
-    "title": "Abominotaur!",
-    "id": "96",
-    "red": "Abominotaur",
-    "orange": "Abominotaur",
-    "yellow": "Abominotaur",
-    "blue": ""
-  },
-  {
-    "title": "Abominotaur!",
-    "id": "97",
-    "red": "Abominotaur",
-    "orange": "Abominotaur",
-    "yellow": "Abominotaur",
-    "blue": ""
-  },
-  {
-    "title": "Abominotaur!",
-    "id": "98",
-    "red": "Abominotaur",
-    "orange": "Abominotaur",
-    "yellow": "Abominotaur",
-    "blue": ""
-  },
-  {
-    "title": "Zombie Deadeyes Invasion",
-    "id": "99",
-    "red": "Deadeye x4",
-    "orange": "Deadeye x3",
-    "yellow": "Deadeye x2",
-    "blue": "Deadeye x1"
-  },
-  {
-    "title": "Zombie Deadeyes Invasion",
-    "id": "100",
-    "red": "Deadeye x5",
-    "orange": "Deadeye- x4",
-    "yellow": "Deadeye x3",
-    "blue": "Deadeye x2"
-  },
-  {
-    "title": "Zombie Deadeyes Invasion",
-    "id": "101",
-    "red": "Deadeye x6",
-    "orange": "Deadeye x5",
-    "yellow": "Deadeye x4",
-    "blue": "Deadeye x3"
-  },
-  {
-    "title": "Zombie Deadeyes Invasion",
-    "id": "102",
-    "red": "Deadeye x4",
-    "orange": "Deadeye x3",
-    "yellow": "Deadeye x2",
-    "blue": "Deadeye x1"
-  },
-  {
-    "title": "Zombie Deadeyes Invasion",
-    "id": "103",
-    "red": "Deadeye x5",
-    "orange": "Deadeye x4",
-    "yellow": "Deadeye x3",
-    "blue": "Deadeye x2"
-  },
-  {
-    "title": "Zombie Deadeyes Invasion",
-    "id": "104",
-    "red": "Deadeye x6",
-    "orange": "Deadeye x5",
-    "yellow": "Deadeye x4",
-    "blue": "Deadeye x3"
-  },
-  {
-    "title": "Murder of Crowz invasion",
-    "id": "105",
-    "red": "Crowz x5",
-    "orange": "Crowz x4",
-    "yellow": "Crowz x3",
-    "blue": "Crowz x2"
-  },
-  {
-    "title": "Murder of Crowz Invasion",
-    "id": "106",
-    "red": "Crowz x5",
-    "orange": "Crowz x4",
-    "yellow": "Crowz x3",
-    "blue": "Crowz x2"
-  },
-  {
-    "title": "Murder of Crowz invasion",
-    "id": "107",
-    "red": "Crowz x5",
-    "orange": "Crowz x4",
-    "yellow": "Crowz x3",
-    "blue": "Crowz x2"
-  },
-  {
-    "title": "Murder of Crowz Invasion",
-    "id": "108",
-    "red": "Crowz x5",
-    "orange": "Crowz x4",
-    "yellow": "Crowz x3",
-    "blue": "Crowz x2"
-  },
-  {
-    "title": "Murder of Crowz Invasion",
-    "id": "109",
-    "red": "Crowz x5",
-    "orange": "Crowz x4",
-    "yellow": "Crowz x3",
-    "blue": "Crowz x2"
-  },
-  {
-    "title": "Murder of Crowz Invasion",
-    "id": "110",
-    "red": "Crowz x5",
-    "orange": "Crowz x4",
-    "yellow": "Crowz x3",
-    "blue": "Crowz x2"
-  },
-  {
-    "title": "Murder of Crowz invasion",
-    "id": "111",
-    "red": "Crowz x5",
-    "orange": "Crowz x4",
-    "yellow": "Crowz x3",
-    "blue": "Crowz x2"
-  },
-  {
-    "title": "Murder of Crowz Invasion",
-    "id": "112",
-    "red": "Crowz x5",
-    "orange": "Crowz x4",
-    "yellow": "Crowz x3",
-    "blue": "Crowz x2"
-  },
-  {
-    "title": "Murder of Crowz invasion",
-    "id": "113",
-    "red": "Crowz x5",
-    "orange": "Crowz x4",
-    "yellow": "Crowz x3",
-    "blue": "Crowz x2"
-  },
-  {
-    "title": "murder of Crowz Invasion",
-    "id": "114",
-    "red": "Crowz x5",
-    "orange": "Crowz x4",
-    "yellow": "Crowz x3",
-    "blue": "Crowz x2"
-  },
-  {
-    "title": "Murder of Crowz Invasion",
-    "id": "115",
-    "red": "Crowz x5",
-    "orange": "Crowz x4",
-    "yellow": "Crowz x3 .",
-    "blue": "Crowz x2"
-  },
-  {
-    "title": "Murder of Crowz invasion",
-    "id": "116",
-    "red": "Crowz x5",
-    "orange": "Crowz x4",
-    "yellow": "Crowz x3",
-    "blue": "Crowz x2"
-  },
-  {
-    "title": "Abominalpha!",
-    "id": "117",
-    "red": "Abominalpha",
-    "orange": "Abominalpha",
-    "yellow": "Abominalpha",
-    "blue": ""
-  },
-  {
-    "title": "Abominalpha!",
-    "id": "118",
-    "red": "Abominalpha",
-    "orange": "Abominalpha",
-    "yellow": "Abominalpha",
-    "blue": ""
-  },
-  {
-    "title": "Abominalpha!",
-    "id": "119",
-    "red": "Abominalpha",
-    "orange": "Abominalpha",
-    "yellow": "Abominalpha",
-    "blue": ""
-  },
-  {
-    "title": "Abominalpha!",
-    "id": "120",
-    "red": "Abominalpha",
-    "orange": "Abominalpha",
-    "yellow": "Abominalpha",
-    "blue": ""
-  },
-  {
-    "title": "Abominarat!",
-    "id": "121",
-    "red": "Abominarat",
-    "orange": "Abominarat",
-    "yellow": "Abominarat",
-    "blue": ""
-  },
-  {
-    "title": "Abominarat!",
-    "id": "122",
-    "red": "Abominarat",
-    "orange": "Abominarat",
-    "yellow": "Abominarat",
-    "blue": ""
-  },
-  {
-    "title": "Abominarat!",
-    "id": "123",
-    "red": "Abominarat",
-    "orange": "Abominarat",
-    "yellow": "Abominarat",
-    "blue": ""
-  },
-  {
-    "title": "Abominarat!",
-    "id": "124",
-    "red": "Abominarat",
-    "orange": "Abominarat",
-    "yellow": "Abominarat",
-    "blue": ""
-  }
-]
+{
+    "1": {
+        "title": "Zombies Invasion",
+        "red": "Fatty x2",
+        "orange": "Walker x5",
+        "yellow": "Runner x2",
+        "blue": ""
+    },
+    "2": {
+        "title": "Zombies Invasion",
+        "red": "Walker x5",
+        "orange": "Walker x5",
+        "yellow": "Fatty x2",
+        "blue": ""
+    },
+    "3": {
+        "title": "Zombies Invasion",
+        "red": "Runner x2",
+        "orange": "Runner x3",
+        "yellow": "Walker x4",
+        "blue": ""
+    },
+    "4": {
+        "title": "Zombies Invasion",
+        "red": "Fatty M x3",
+        "orange": "Fatty x3",
+        "yellow": "Runner x1",
+        "blue": "Walker x1"
+    },
+    "5": {
+        "title": "Zombies Invasion",
+        "red": "Walker x5",
+        "orange": "Walker x4",
+        "yellow": "Fatty x1",
+        "blue": "Walker x1"
+    },
+    "6": {
+        "title": "Zombies Invasion",
+        "red": "Runner x3",
+        "orange": "Runner x1",
+        "yellow": "Walker x2",
+        "blue": "Walker x1"
+    },
+    "7": {
+        "title": "Zombies Invasion",
+        "red": "Fatty x3",
+        "orange": "Fatty x1",
+        "yellow": "Runner x1",
+        "blue": "Walker x2"
+    },
+    "8": {
+        "title": "Zombies Invasion",
+        "red": "Walker x6",
+        "orange": "Walker x4",
+        "yellow": "Fatty x1",
+        "blue": "Walker x3"
+    },
+    "9": {
+        "title": "Zombies Invasion",
+        "red": "Runner x3",
+        "orange": "Runner x2",
+        "yellow": "Walker x2",
+        "blue": "Fatty x1"
+    },
+    "10": {
+        "title": "Zombies Invasion",
+        "red": "Walker x5",
+        "orange": "Fatty x2",
+        "yellow": "Walker x2",
+        "blue": "Fatty x1"
+    },
+    "11": {
+        "title": "Zombies Invasion",
+        "red": "Walker x6",
+        "orange": "Walker x3",
+        "yellow": "Walker x3",
+        "blue": "Runner x1"
+    },
+    "12": {
+        "title": "Zombies Invasion",
+        "red": "Walker x5",
+        "orange": "Walker x3",
+        "yellow": "Walker x3",
+        "blue": "Runner x1"
+    },
+    "13": {
+        "title": "Zombies Invasion",
+        "red": "Fatty x2",
+        "orange": "Walker x5",
+        "yellow": "Runner x1",
+        "blue": "Abomination"
+    },
+    "14": {
+        "title": "Zombies Invasion",
+        "red": "Runner x3",
+        "orange": "Fatty x1",
+        "yellow": "Abomination x1",
+        "blue": "Walker x2"
+    },
+    "15": {
+        "title": "Zombies Invasion",
+        "red": "Walker x6",
+        "orange": "Abomination x1",
+        "yellow": "Fatty x1",
+        "blue": "Walker x2"
+    },
+    "16": {
+        "title": "Zombies Invasion",
+        "red": "Abomination x1",
+        "orange": "Runner x2",
+        "yellow": "Walker x3",
+        "blue": "Walker x1"
+    },
+    "17": {
+        "title": "Zombies Invasion",
+        "red": "Runner x6",
+        "orange": "Fatty x3",
+        "yellow": "Runner x2",
+        "blue": "Walker x1"
+    },
+    "18": {
+        "title": "Zombies Invasion",
+        "red": "Walker x5",
+        "orange": "Walker x4",
+        "yellow": "Fatty x1",
+        "blue": "Runner x1"
+    },
+    "19": {
+        "title": "Zombies Invasion",
+        "red": "Fatty x3",
+        "orange": "Runner x2",
+        "yellow": "Walker x4",
+        "blue": "Walker x1"
+    },
+    "20": {
+        "title": "Zombies Invasion",
+        "red": "Runner x2",
+        "orange": "Walker x6",
+        "yellow": "Runner x1",
+        "blue": "Fatty x1"
+    },
+    "21": {
+        "title": "Zombies Invasion",
+        "red": "Walker x8",
+        "orange": "Runner x2",
+        "yellow": "Fatty x2",
+        "blue": "Walker x1"
+    },
+    "22": {
+        "title": "Zombies Invasion",
+        "red": "Walker x7",
+        "orange": "Fatty x2",
+        "yellow": "Walker x2",
+        "blue": "Fatty x1"
+    },
+    "23": {
+        "title": "Zombies Invasion",
+        "red": "Fatty x3",
+        "orange": "Walker x4",
+        "yellow": "Walker x4",
+        "blue": "Runner x1"
+    },
+    "24": {
+        "title": "Zombies Invasion",
+        "red": "Runner x3",
+        "orange": "Walker x5",
+        "yellow": "Walker x3",
+        "blue": "Fatty x1"
+    },
+    "25": {
+        "title": "Zombies Invasion",
+        "red": "Fatty x2",
+        "orange": "Walker x5",
+        "yellow": "Runner x1",
+        "blue": "Abomination x1"
+    },
+    "26": {
+        "title": "Zombies Invasion",
+        "red": "Runner x3",
+        "orange": "Fatty x1",
+        "yellow": "Abomination x1",
+        "blue": "Walker x2"
+    },
+    "27": {
+        "title": "Zombies Invasion",
+        "red": "Walker x6",
+        "orange": "Abomination x1",
+        "yellow": "Fatty x1",
+        "blue": "Walker x2"
+    },
+    "28": {
+        "title": "Zombies Invasion",
+        "red": "Abomination x1",
+        "orange": "Runner x2",
+        "yellow": "Walker x3",
+        "blue": "Walker x1"
+    },
+    "29": {
+        "title": "Zombies Invasion",
+        "red": "Runner x6",
+        "orange": "Fatty x3",
+        "yellow": "Runner x2",
+        "blue": "Walker x1"
+    },
+    "30": {
+        "title": "Zombies Invasion",
+        "red": "Walker x5",
+        "orange": "Walker x4",
+        "yellow": "Fatty x1",
+        "blue": "Runner x1"
+    },
+    "31": {
+        "title": "Zombies Invasion",
+        "red": "Fatty x3",
+        "orange": "Runner x2",
+        "yellow": "Walker x4",
+        "blue": "Walker x1"
+    },
+    "32": {
+        "title": "Zombies Invasion",
+        "red": "Runner x2",
+        "orange": "Walker x6",
+        "yellow": "Runner x1",
+        "blue": "Fatty x1"
+    },
+    "33": {
+        "title": "Zombies Invasion",
+        "red": "Walker x8",
+        "orange": "Runner x2",
+        "yellow": "Fatty x2",
+        "blue": "Walker x1"
+    },
+    "34": {
+        "title": "Zombies Invasion",
+        "red": "Walker x7",
+        "orange": "Fatty x2",
+        "yellow": "Walker x2",
+        "blue": "Fatty x1"
+    },
+    "35": {
+        "title": "Zombies Invasion",
+        "red": "Fatty x3",
+        "orange": "Walker x4",
+        "yellow": "Walker x4",
+        "blue": "Runner x1"
+    },
+    "36": {
+        "title": "Zombies Invasion",
+        "red": "Runner x3",
+        "orange": "Walker x5",
+        "yellow": "Walker x3",
+        "blue": "Fatty x1"
+    },
+    "37": {
+        "title": "Extra Activation",
+        "red": "All Standard Walkers",
+        "orange": "All Standard Walkers",
+        "yellow": "All Standard Walkers",
+        "blue": ""
+    },
+    "38": {
+        "title": "Extra Activation",
+        "red": "All Standard Walkers",
+        "orange": "All Standard Walkers",
+        "yellow": "All Standard Walkers",
+        "blue": ""
+    },
+    "39": {
+        "title": "Extra Activation",
+        "red": "All Standard Fatties",
+        "orange": "All Standard Fatties",
+        "yellow": "All Standard Fatties",
+        "blue": ""
+    },
+    "40": {
+        "title": "Extra Activation",
+        "red": "All Standard Runners",
+        "orange": "All Standard Runners",
+        "yellow": "All Standard Runners",
+        "blue": ""
+    },
+    "41": {
+        "title": "Necromancer!",
+        "red": "Necromancer",
+        "orange": "Necromancer",
+        "yellow": "Necromancer",
+        "blue": "Necromancer"
+    },
+    "42": {
+        "title": "Necromancer!",
+        "red": "Necromancer",
+        "orange": "Necromancer",
+        "yellow": "Necromancer",
+        "blue": "Necromancer"
+    },
+    "43": {
+        "title": "Necromancer!",
+        "red": "Necromancer",
+        "orange": "Necromancer",
+        "yellow": "Necromancer",
+        "blue": "Necromancer"
+    },
+    "44": {
+        "title": "Necromancer!",
+        "red": "Necromancer",
+        "orange": "Necromancer",
+        "yellow": "Necromancer",
+        "blue": "Necromancer"
+    },
+    "45": {
+        "title": "Necromancer!",
+        "red": "Necromancer",
+        "orange": "Necromancer",
+        "yellow": "Necromancer",
+        "blue": "Necromancer"
+    },
+    "46": {
+        "title": "Necromancer!",
+        "red": "Necromancer",
+        "orange": "Necromancer",
+        "yellow": "Necromancer",
+        "blue": "Necromancer"
+    },
+    "47": {
+        "title": "Double Spawn!",
+        "red": "Double Spawn",
+        "orange": "Double Spawn",
+        "yellow": "Double Spawn",
+        "blue": "Double Spawn"
+    },
+    "48": {
+        "title": "Double Spawn!",
+        "red": "Double Spawn",
+        "orange": "Double Spawn",
+        "yellow": "Double Spawn",
+        "blue": "Double Spawn"
+    },
+    "49": {
+        "title": "Double Spawn!",
+        "red": "Double Spawn",
+        "orange": "Double Spawn",
+        "yellow": "Double Spawn",
+        "blue": "Double Spawn"
+    },
+    "50": {
+        "title": "Double Spawn!",
+        "red": "Double Spawn",
+        "orange": "Double Spawn",
+        "yellow": "Double Spawn",
+        "blue": "Double Spawn"
+    },
+    "51": {
+        "title": "Double Spawn!",
+        "red": "Double Spawn",
+        "orange": "Double Spawn",
+        "yellow": "Double Spawn",
+        "blue": "Double Spawn"
+    },
+    "52": {
+        "title": "Double Spawn!",
+        "red": "Double Spawn",
+        "orange": "Double Spawn",
+        "yellow": "Double Spawn",
+        "blue": "Double Spawn"
+    },
+    "53": {
+        "title": "Double Spawn!",
+        "red": "Double Spawn",
+        "orange": "Double Spawn",
+        "yellow": "Double Spawn",
+        "blue": "Double Spawn"
+    },
+    "54": {
+        "title": "Double Spawn!",
+        "red": "Double Spawn",
+        "orange": "Double Spawn",
+        "yellow": "Double Spawn",
+        "blue": "Double Spawn"
+    },
+    "55": {
+        "title": "Wolfz Zombie Invasion",
+        "red": "Wolfz x4",
+        "orange": "Wolfz x3",
+        "yellow": "Wolfz x2",
+        "blue": "Wolfz x1"
+    },
+    "56": {
+        "title": "Zombie Wolfz Invasion",
+        "red": "Wolfz x5",
+        "orange": "Wolfz x4",
+        "yellow": "Wolfz x3",
+        "blue": "Wolfz x2"
+    },
+    "57": {
+        "title": "Wolfz Zombie invasion",
+        "red": "Wolfz x6",
+        "orange": "Wolfz x5",
+        "yellow": "Wolfz x4",
+        "blue": "Wolfz x3"
+    },
+    "58": {
+        "title": "Zombie Wolfz Invasion",
+        "red": "Wolfz x4",
+        "orange": "Wolfz x3",
+        "yellow": "Wolfz x2",
+        "blue": "Wolfz x1"
+    },
+    "59": {
+        "title": "Wolfz Zombie invasion",
+        "red": "Wolfz x5",
+        "orange": "Wolfz x4",
+        "yellow": "Wolfz x3",
+        "blue": "Wolfz x2"
+    },
+    "60": {
+        "title": "Zombie Wolfz Invasion",
+        "red": "Wolfz x6",
+        "orange": "Wolfz x5",
+        "yellow": "Wolfz x4",
+        "blue": "Wolfz x3"
+    },
+    "61": {
+        "title": "Wolfbomination!",
+        "red": "Wolfbomination",
+        "orange": "Wolfbomination",
+        "yellow": "Wolfbomination",
+        "blue": ""
+    },
+    "62": {
+        "title": "Wolfbomination!",
+        "red": "Wolfbomination",
+        "orange": "Wolfbomination",
+        "yellow": "Wolfbomination",
+        "blue": ""
+    },
+    "63": {
+        "title": "Zombie N.P.C. Invasion",
+        "red": "N.P.C. x5",
+        "orange": "N.P.C. x4",
+        "yellow": "N.P.C. x4",
+        "blue": ""
+    },
+    "64": {
+        "title": "Zombie N.P.C. Invasion",
+        "red": "N.P.C. x7",
+        "orange": "N.P.C. x6",
+        "yellow": "N.P.C. x1",
+        "blue": "N.P.C. x1"
+    },
+    "65": {
+        "title": "Zombie N.P.C. Invasion",
+        "red": "N.P.C. x8",
+        "orange": "N.P.C. x2",
+        "yellow": "N.P.C. x2",
+        "blue": "N.P.C. x1"
+    },
+    "66": {
+        "title": "Zombie N.P.C. Invasion",
+        "red": "N.P.C. x4",
+        "orange": "N.P.C. x4",
+        "yellow": "N.P.C. x3",
+        "blue": "N.P.C. x2"
+    },
+    "67": {
+        "title": "Zombie N.P.C. Invasion",
+        "red": "N.P.C. x5",
+        "orange": "N.P.C. x4",
+        "yellow": "N.P.C. x4",
+        "blue": ""
+    },
+    "68": {
+        "title": "Zombie N.P.C. Invasion",
+        "red": "N.P.C. x7",
+        "orange": "N.P.C. x6",
+        "yellow": "N.P.C. x1",
+        "blue": "N.P.C. x1"
+    },
+    "69": {
+        "title": "Zombie N.P.C. Invasion",
+        "red": "N.P.C. x8",
+        "orange": "N.P.C. x2",
+        "yellow": "N.P.C. x2",
+        "blue": "N.P.C. x1"
+    },
+    "70": {
+        "title": "Zombie N.P.C. Invasion",
+        "red": "N.P.C. x4",
+        "orange": "N.P.C. x4",
+        "yellow": "N.P.C. x3",
+        "blue": "N.P.C. x2"
+    },
+    "71": {
+        "title": "Zombie N.P.C. Invasion",
+        "red": "N.P.C. x5",
+        "orange": "N.P.C. x4",
+        "yellow": "N.P.C. x4",
+        "blue": ""
+    },
+    "72": {
+        "title": "Zombie N.P.C. Invasion",
+        "red": "N.P.C. x7",
+        "orange": "N.P.C. x6",
+        "yellow": "N.P.C. x1",
+        "blue": "N.P.C. x1"
+    },
+    "73": {
+        "title": "Zombie N.P.C. Invasion",
+        "red": "N.P.C. x8",
+        "orange": "N.P.C. x2",
+        "yellow": "N.P.C. x2",
+        "blue": "N.P.C. x1"
+    },
+    "74": {
+        "title": "Zombie N.P.C. Invasion",
+        "red": "N.P.C. x4",
+        "orange": "N.P.C. x4",
+        "yellow": "N.P.C. x3",
+        "blue": "N.P.C. x2"
+    },
+    "75": {
+        "title": "Zombie N.P.C. Invasion",
+        "red": "N.P.C. x5",
+        "orange": "N.P.C. x4",
+        "yellow": "N.P.C. x4",
+        "blue": ""
+    },
+    "76": {
+        "title": "Zombie N.P.C. Invasion",
+        "red": "N.P.C. x7",
+        "orange": "N.P.C. x6",
+        "yellow": "N.P.C. x1",
+        "blue": "N.P.C. x1"
+    },
+    "77": {
+        "title": "Zombie N.P.C. Invasion",
+        "red": "N.P.C. x8",
+        "orange": "N.P.C. x2",
+        "yellow": "N.P.C. x2",
+        "blue": "N.P.C. x1"
+    },
+    "78": {
+        "title": "Zombie N.P.C. Invasion",
+        "red": "N.P.C. x4",
+        "orange": "N.P.C. x4",
+        "yellow": "N.P.C. x3",
+        "blue": "N.P.C. x2"
+    },
+    "79": {
+        "title": "Zombie N.P.C. Invasion",
+        "red": "N.P.C. x5",
+        "orange": "N.P.C. x4",
+        "yellow": "N.P.C. x4",
+        "blue": ""
+    },
+    "80": {
+        "title": "Zombie N.P.C. Invasion",
+        "red": "N.P.C. x7",
+        "orange": "N.P.C. x6",
+        "yellow": "N.P.C. x1",
+        "blue": "N.P.C. x1"
+    },
+    "81": {
+        "title": "Zombie N.P.C. Invasion",
+        "red": "N.P.C. x8",
+        "orange": "N.P.C. x2",
+        "yellow": "N.P.C. x2",
+        "blue": "N.P.C. x1"
+    },
+    "82": {
+        "title": "Zombie N.P.C. Invasion",
+        "red": "N.P.C. x4",
+        "orange": "N.P.C. x4",
+        "yellow": "N.P.C. x3",
+        "blue": "N.P.C. x2"
+    },
+    "83": {
+        "title": "Zombie N.P.C. Invasion",
+        "red": "N.P.C. x5",
+        "orange": "N.P.C. x4",
+        "yellow": "N.P.C. x4",
+        "blue": ""
+    },
+    "84": {
+        "title": "Zombie N.P.C. Invasion",
+        "red": "N.P.C. x7",
+        "orange": "N.P.C. x6",
+        "yellow": "N.P.C. x1",
+        "blue": "N.P.C. x1"
+    },
+    "85": {
+        "title": "Zombie N.P.C. Invasion",
+        "red": "N.P.C. x8",
+        "orange": "N.P.C. x2",
+        "yellow": "N.P.C. x2",
+        "blue": "N.P.C. x1"
+    },
+    "86": {
+        "title": "Zombie N.P.C. Invasion",
+        "red": "N.P.C. x4",
+        "orange": "N.P.C. x4",
+        "yellow": "N.P.C. x3",
+        "blue": "N.P.C. x2"
+    },
+    "87": {
+        "title": "Ablobination!",
+        "red": "Ablobination",
+        "orange": "Ablobination",
+        "yellow": "Ablobination",
+        "blue": ""
+    },
+    "88": {
+        "title": "Ablobination!",
+        "red": "Ablobination",
+        "orange": "Ablobination",
+        "yellow": "Ablobination",
+        "blue": ""
+    },
+    "89": {
+        "title": "Ablobination!",
+        "red": "Ablobination",
+        "orange": "Ablobination",
+        "yellow": "Ablobination",
+        "blue": ""
+    },
+    "90": {
+        "title": "Ablobination!",
+        "red": "Ablobination",
+        "orange": "Ablobination",
+        "yellow": "Ablobination",
+        "blue": ""
+    },
+    "91": {
+        "title": "Abominatroll!",
+        "red": "Abominatroll",
+        "orange": "Abominatroll",
+        "yellow": "Abominatroll",
+        "blue": ""
+    },
+    "92": {
+        "title": "Abominatroll!",
+        "red": "Abominatroll",
+        "orange": "Abominatroll",
+        "yellow": "Abominatroll",
+        "blue": ""
+    },
+    "93": {
+        "title": "Abominatroll!",
+        "red": "Abominatroll",
+        "orange": "Abominatroll",
+        "yellow": "Abominatroll",
+        "blue": ""
+    },
+    "94": {
+        "title": "Abominatroll!",
+        "red": "Abominatroll",
+        "orange": "Abominatroll",
+        "yellow": "Abominatroll",
+        "blue": ""
+    },
+    "95": {
+        "title": "Abominotaur!",
+        "red": "Abominotaur",
+        "orange": "Abominotaur",
+        "yellow": "Abominotaur",
+        "blue": ""
+    },
+    "96": {
+        "title": "Abominotaur!",
+        "red": "Abominotaur",
+        "orange": "Abominotaur",
+        "yellow": "Abominotaur",
+        "blue": ""
+    },
+    "97": {
+        "title": "Abominotaur!",
+        "red": "Abominotaur",
+        "orange": "Abominotaur",
+        "yellow": "Abominotaur",
+        "blue": ""
+    },
+    "98": {
+        "title": "Abominotaur!",
+        "red": "Abominotaur",
+        "orange": "Abominotaur",
+        "yellow": "Abominotaur",
+        "blue": ""
+    },
+    "99": {
+        "title": "Zombie Deadeyes Invasion",
+        "red": "Deadeye x4",
+        "orange": "Deadeye x3",
+        "yellow": "Deadeye x2",
+        "blue": "Deadeye x1"
+    },
+    "100": {
+        "title": "Zombie Deadeyes Invasion",
+        "red": "Deadeye x5",
+        "orange": "Deadeye- x4",
+        "yellow": "Deadeye x3",
+        "blue": "Deadeye x2"
+    },
+    "101": {
+        "title": "Zombie Deadeyes Invasion",
+        "red": "Deadeye x6",
+        "orange": "Deadeye x5",
+        "yellow": "Deadeye x4",
+        "blue": "Deadeye x3"
+    },
+    "102": {
+        "title": "Zombie Deadeyes Invasion",
+        "red": "Deadeye x4",
+        "orange": "Deadeye x3",
+        "yellow": "Deadeye x2",
+        "blue": "Deadeye x1"
+    },
+    "103": {
+        "title": "Zombie Deadeyes Invasion",
+        "red": "Deadeye x5",
+        "orange": "Deadeye x4",
+        "yellow": "Deadeye x3",
+        "blue": "Deadeye x2"
+    },
+    "104": {
+        "title": "Zombie Deadeyes Invasion",
+        "red": "Deadeye x6",
+        "orange": "Deadeye x5",
+        "yellow": "Deadeye x4",
+        "blue": "Deadeye x3"
+    },
+    "105": {
+        "title": "Murder of Crowz invasion",
+        "red": "Crowz x5",
+        "orange": "Crowz x4",
+        "yellow": "Crowz x3",
+        "blue": "Crowz x2"
+    },
+    "106": {
+        "title": "Murder of Crowz Invasion",
+        "red": "Crowz x5",
+        "orange": "Crowz x4",
+        "yellow": "Crowz x3",
+        "blue": "Crowz x2"
+    },
+    "107": {
+        "title": "Murder of Crowz invasion",
+        "red": "Crowz x5",
+        "orange": "Crowz x4",
+        "yellow": "Crowz x3",
+        "blue": "Crowz x2"
+    },
+    "108": {
+        "title": "Murder of Crowz Invasion",
+        "red": "Crowz x5",
+        "orange": "Crowz x4",
+        "yellow": "Crowz x3",
+        "blue": "Crowz x2"
+    },
+    "109": {
+        "title": "Murder of Crowz Invasion",
+        "red": "Crowz x5",
+        "orange": "Crowz x4",
+        "yellow": "Crowz x3",
+        "blue": "Crowz x2"
+    },
+    "110": {
+        "title": "Murder of Crowz Invasion",
+        "red": "Crowz x5",
+        "orange": "Crowz x4",
+        "yellow": "Crowz x3",
+        "blue": "Crowz x2"
+    },
+    "111": {
+        "title": "Murder of Crowz invasion",
+        "red": "Crowz x5",
+        "orange": "Crowz x4",
+        "yellow": "Crowz x3",
+        "blue": "Crowz x2"
+    },
+    "112": {
+        "title": "Murder of Crowz Invasion",
+        "red": "Crowz x5",
+        "orange": "Crowz x4",
+        "yellow": "Crowz x3",
+        "blue": "Crowz x2"
+    },
+    "113": {
+        "title": "Murder of Crowz invasion",
+        "red": "Crowz x5",
+        "orange": "Crowz x4",
+        "yellow": "Crowz x3",
+        "blue": "Crowz x2"
+    },
+    "114": {
+        "title": "murder of Crowz Invasion",
+        "red": "Crowz x5",
+        "orange": "Crowz x4",
+        "yellow": "Crowz x3",
+        "blue": "Crowz x2"
+    },
+    "115": {
+        "title": "Murder of Crowz Invasion",
+        "red": "Crowz x5",
+        "orange": "Crowz x4",
+        "yellow": "Crowz x3 .",
+        "blue": "Crowz x2"
+    },
+    "116": {
+        "title": "Murder of Crowz invasion",
+        "red": "Crowz x5",
+        "orange": "Crowz x4",
+        "yellow": "Crowz x3",
+        "blue": "Crowz x2"
+    },
+    "117": {
+        "title": "Abominalpha!",
+        "red": "Abominalpha",
+        "orange": "Abominalpha",
+        "yellow": "Abominalpha",
+        "blue": ""
+    },
+    "118": {
+        "title": "Abominalpha!",
+        "red": "Abominalpha",
+        "orange": "Abominalpha",
+        "yellow": "Abominalpha",
+        "blue": ""
+    },
+    "119": {
+        "title": "Abominalpha!",
+        "red": "Abominalpha",
+        "orange": "Abominalpha",
+        "yellow": "Abominalpha",
+        "blue": ""
+    },
+    "120": {
+        "title": "Abominalpha!",
+        "red": "Abominalpha",
+        "orange": "Abominalpha",
+        "yellow": "Abominalpha",
+        "blue": ""
+    },
+    "121": {
+        "title": "Abominarat!",
+        "red": "Abominarat",
+        "orange": "Abominarat",
+        "yellow": "Abominarat",
+        "blue": ""
+    },
+    "122": {
+        "title": "Abominarat!",
+        "red": "Abominarat",
+        "orange": "Abominarat",
+        "yellow": "Abominarat",
+        "blue": ""
+    },
+    "123": {
+        "title": "Abominarat!",
+        "red": "Abominarat",
+        "orange": "Abominarat",
+        "yellow": "Abominarat",
+        "blue": ""
+    },
+    "124": {
+        "title": "Abominarat!",
+        "red": "Abominarat",
+        "orange": "Abominarat",
+        "yellow": "Abominarat",
+        "blue": ""
+    }
+}
