@@ -1300,5 +1300,173 @@
         "orange": "Necromantic Dragon",
         "yellow": "Necromantic Dragon",
         "blue": ""
+    },
+    "241": {
+        "title": "Swarm of Ratz!",
+        "red": "Swarm of Ratz x5",
+        "orange": "Swarm of Ratz x4",
+        "yellow": "Swarm of Ratz x3",
+        "blue": "Swarm of Ratz x2"
+    },
+    "242": {
+        "title": "Swarm of Ratz!",
+        "red": "Swarm of Ratz x5",
+        "orange": "Swarm of Ratz x4",
+        "yellow": "Swarm of Ratz x3",
+        "blue": "Swarm of Ratz x2"
+    },
+    "243": {
+        "title": "Swarm of Ratz!",
+        "red": "Swarm of Ratz x5",
+        "orange": "Swarm of Ratz x4",
+        "yellow": "Swarm of Ratz x3",
+        "blue": "Swarm of Ratz x2"
+    },
+    "244": {
+        "title": "Swarm of Ratz!",
+        "red": "Swarm of Ratz x5",
+        "orange": "Swarm of Ratz x4",
+        "yellow": "Swarm of Ratz x3",
+        "blue": "Swarm of Ratz x2"
+    },
+    "245": {
+        "title": "Swarm of Ratz!",
+        "red": "Swarm of Ratz x5",
+        "orange": "Swarm of Ratz x4",
+        "yellow": "Swarm of Ratz x3",
+        "blue": "Swarm of Ratz x2"
+    },
+    "246": {
+        "title": "Swarm of Ratz!",
+        "red": "Swarm of Ratz x5",
+        "orange": "Swarm of Ratz x4",
+        "yellow": "Swarm of Ratz x3",
+        "blue": "Swarm of Ratz x2"
+    },
+    "247": {
+        "title": "Swarm of Ratz!",
+        "red": "Swarm of Ratz x5",
+        "orange": "Swarm of Ratz x4",
+        "yellow": "Swarm of Ratz x3",
+        "blue": "Swarm of Ratz x2"
+    },
+    "248": {
+        "title": "Swarm of Ratz!",
+        "red": "Swarm of Ratz x5",
+        "orange": "Swarm of Ratz x4",
+        "yellow": "Swarm of Ratz x3",
+        "blue": "Swarm of Ratz x2"
+    },
+    "249": {
+        "title": "Swarm of Ratz!",
+        "red": "Swarm of Ratz x5",
+        "orange": "Swarm of Ratz x4",
+        "yellow": "Swarm of Ratz x3",
+        "blue": "Swarm of Ratz x2"
+    },
+    "250": {
+        "title": "Swarm of Ratz!",
+        "red": "Swarm of Ratz x5",
+        "orange": "Swarm of Ratz x4",
+        "yellow": "Swarm of Ratz x3",
+        "blue": "Swarm of Ratz x2"
+    },
+    "251": {
+        "title": "Swarm of Ratz!",
+        "red": "Swarm of Ratz x5",
+        "orange": "Swarm of Ratz x4",
+        "yellow": "Swarm of Ratz x3",
+        "blue": "Swarm of Ratz x2"
+    },
+    "252": {
+        "title": "Swarm of Ratz!",
+        "red": "Swarm of Ratz x5",
+        "orange": "Swarm of Ratz x4",
+        "yellow": "Swarm of Ratz x3",
+        "blue": "Swarm of Ratz x2"
+    },
+    "229": {
+        "title": "Spectral Walkers!",
+        "red": "Spectral Walker x2",
+        "orange": "Spectral Walker x5",
+        "yellow": "Spectral Walker x1",
+        "blue": "Spectral Walker x1"
+    },
+    "230": {
+        "title": "Spectral Walkers!",
+        "red": "Spectral Walker x3",
+        "orange": "Spectral Walker x1",
+        "yellow": "Spectral Walker x1",
+        "blue": "Spectral Walker x2"
+    },
+    "231": {
+        "title": "Spectral Walkers!",
+        "red": "Spectral Walker x6",
+        "orange": "Spectral Walker x1",
+        "yellow": "Spectral Walker x1",
+        "blue": "Spectral Walker x2"
+    },
+    "232": {
+        "title": "Spectral Walkers!",
+        "red": "Spectral Walker x1",
+        "orange": "Spectral Walker x2",
+        "yellow": "Spectral Walker x3",
+        "blue": "Spectral Walker x1"
+    },
+    "233": {
+        "title": "Spectral Walkers!",
+        "red": "Spectral Walker x6",
+        "orange": "Spectral Walker x3",
+        "yellow": "Spectral Walker x2",
+        "blue": "Spectral Walker x1"
+    },
+   "234": {
+        "title": "Spectral Walkers!",
+        "red": "Spectral Walker x5",
+        "orange": "Spectral Walker x4",
+        "yellow": "Spectral Walker x1",
+        "blue": "Spectral Walker x1"
+    },
+    "235": {
+        "title": "Spectral Walkers!",
+        "red": "Spectral Walker x3",
+        "orange": "Spectral Walker x2",
+        "yellow": "Spectral Walker x4",
+        "blue": "Spectral Walker x1"
+    },
+    "236": {
+        "title": "Spectral Walkers!",
+        "red": "Spectral Walker x2",
+        "orange": "Spectral Walker x6",
+        "yellow": "Spectral Walker x1",
+        "blue": "Spectral Walker x1"
+    },
+    "237": {
+        "title": "Spectral Walkers!",
+        "red": "Spectral Walker x8",
+        "orange": "Spectral Walker x2",
+        "yellow": "Spectral Walker x2",
+        "blue": "Spectral Walker x1"
+    },
+   "238": {
+        "title": "Spectral Walkers!",
+        "red": "Spectral Walker x7",
+        "orange": "Spectral Walker x2",
+        "yellow": "Spectral Walker x2",
+        "blue": "Spectral Walker x1"
+    },
+    "239": {
+        "title": "Spectral Walkers!",
+        "red": "Spectral Walker x3",
+        "orange": "Spectral Walker x4",
+        "yellow": "Spectral Walker x4",
+        "blue": "Spectral Walker x1"
+    },
+    "240": {
+        "title": "Spectral Walkers!",
+        "red": "Spectral Walker x3",
+        "orange": "Spectral Walker x5",
+        "yellow": "Spectral Walker x3",
+        "blue": "Spectral Walker x1"
     }
 }
