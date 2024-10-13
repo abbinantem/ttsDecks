@@ -866,5 +866,285 @@
         "orange": "Abominarat",
         "yellow": "Abominarat",
         "blue": ""
+    },
+    "167": {
+        "title": "Assemble the HORDE!",
+        "red": "Orc Fatty x2",
+        "orange": "Orc Walker x5",
+        "yellow": "Orc Runner x4",
+        "blue": "Nothing in sight!"
+    },
+      "168": {
+        "title": "Assemble the HORDE!",
+        "red": "Orc Walker x5",
+        "orange": "Orc Walker x5",
+        "yellow": "Orc Fatty x2",
+        "blue": "Nothing in sight!"
+    },
+      "169": {
+        "title": "Assemble the HORDE!",
+        "red": "Orc Runner x6",
+        "orange": "Orc Runner x6",
+        "yellow": "Orc Walker x4",
+        "blue": "Nothing in sight!"
+    },
+      "170": {
+        "title": "Assemble the HORDE!",
+        "red": "Orc Fatty x3",
+        "orange": "Orc Fatty x3",
+        "yellow": "Orc Runner x3",
+        "blue": "Orc Walker x1"
+    },
+      "171": {
+        "title": "Assemble the HORDE!",
+        "red": "Orc Walker x5",
+        "orange": "Orc Walker x4",
+        "yellow": "Orc Fatty x1",
+        "blue": "Orc Walker x1"
+    },
+      "172": {
+        "title": "Assemble the HORDE!",
+        "red": "Orc Runner x7",
+        "orange": "Orc Runner x4",
+        "yellow": "Orc Walker x2",
+        "blue": "Orc Walker x1"
+    },
+      "173": {
+        "title": "Assemble the HORDE!",
+        "red": "Orc Fatty x3",
+        "orange": "Orc Fatty x1",
+        "yellow": "Orc Runner x3",
+        "blue": "Orc Walker x2"
+    },
+      "174": {
+        "title": "Assemble the HORDE!",
+        "red": "Orc Walker x6",
+        "orange": "Orc Walker x4",
+        "yellow": "Orc Fatty x1",
+        "blue": "Orc Walker x3"
+    },
+      "175": {
+        "title": "Assemble the HORDE!",
+        "red": "Orc Runner $ x7",
+        "orange": "Orc Runner x5",
+        "yellow": "Orc Walker x2",
+        "blue": "Orc Fatty x1"
+    },
+      "176": {
+        "title": "Assemble the HORDE!",
+        "red": "Orc Walker x5",
+        "orange": "Orc Fatty x2",
+        "yellow": "Orc Walker x2",
+        "blue": "Orc Fatty x1"
+    },
+      "177": {
+        "title": "Assemble the HORDE!",
+        "red": "Orc Walker x6",
+        "orange": "Orc Walker x3",
+        "yellow": "Orc Walker x3",
+        "blue": "Orc Runner x2"
+    },
+      "178": {
+        "title": "Assemble the HORDE!",
+        "red": "Orc Walker x5",
+        "orange": "Orc Walker x3",
+        "yellow": "Orc Walker x3",
+        "blue": "Orc Runner x2"
+    },
+      "179": {
+        "title": "Assemble the HORDE!",
+        "red": "Orc Fatty x2",
+        "orange": "Orc Walker x5",
+        "yellow": "Orc Runner x3",
+        "blue": "Orc Abomination"
+    },
+      "180": {
+        "title": "Assemble the HORDE!",
+        "red": "Orc Runner x7",
+        "orange": "Orc Fatty x7",
+        "yellow": "Orc Abomination",
+        "blue": "Orc Walker x2"
+    },
+      "181": {
+        "title": "Assemble the HORDE!",
+        "red": "Orc Walker x6",
+        "orange": "Orc Abomination",
+        "yellow": "Orc Fatty x1",
+        "blue": "Orc Walker x2"
+    },
+      "182": {
+        "title": "Assemble the HORDE!",
+        "red": "Orc Abomination",
+        "orange": "Orc Runner x5",
+        "yellow": "Orc Walker x3",
+        "blue": "Orc Walker x1"
+    },
+      "183": {
+        "title": "Assemble the HORDE!",
+        "red": "Orc Walker x6",
+        "orange": "Orc Fatty x3",
+        "yellow": "Orc Runner x4",
+        "blue": "Orc Walker x1"
+    },
+      "184": {
+        "title": "Assemble the HORDE!",
+        "red": "Orc Walker x5",
+        "orange": "Orc Walker x4",
+        "yellow": "Orc Fatty x1",
+        "blue": "Orc Runner x2"
+    },
+      "185": {
+        "title": "Assemble the HORDE!",
+        "red": "Orc Fatty x3",
+        "orange": "Orc Runner x5",
+        "yellow": "Orc Walker x4",
+        "blue": "Orc Walker x1"
+    },
+      "186": {
+        "title": "Assemble the HORDE!",
+        "red": "Orc Runner x6",
+        "orange": "Orc Walker x6",
+        "yellow": "Orc Runner x3",
+        "blue": "Orc Fatty x1"
+    },
+      "187": {
+        "title": "Assemble the HORDE!",
+        "red": "Orc Walker x8",
+        "orange": "Orc Runner x5",
+        "yellow": "Orc Fatty x2",
+        "blue": "Orc Walker x1"
+    },
+      "188": {
+        "title": "Assemble the HORDE!",
+        "red": "Orc Walker x7",
+        "orange": "Orc Fatty x2",
+        "yellow": "Orc Walker x2",
+        "blue": "Orc Fatty x1"
+    },
+      "189": {
+        "title": "Assemble the HORDE!",
+        "red": "Orc Fatty x3",
+        "orange": "Orc Walker x4",
+        "yellow": "Orc Walker x4",
+        "blue": "Orc Runner x2"
+    },
+      "190": {
+        "title": "Assemble the HORDE!",
+        "red": "Orc Runner x7",
+        "orange": "Orc Walker x5",
+        "yellow": "Orc Walker x3",
+        "blue": "Orc Fatty x1"
+    },
+      "191": {
+        "title": "Assemble the HORDE!",
+        "red": "Orc Fatty x2",
+        "orange": "Orc Walker x5",
+        "yellow": "Orc Runner x3",
+        "blue": "Orc Abomination"
+    },
+      "192": {
+        "title": "Assemble the HORDE!",
+        "red": "Orc Runner x7",
+        "orange": "Orc Fatty x1",
+        "yellow": "Orc Abomination",
+        "blue": "Orc Walker x2"
+    },
+      "193": {
+        "title": "Assemble the HORDE!",
+        "red": "Orc Walker x6",
+        "orange": "Orc Abomination",
+        "yellow": "Orc Fatty x1",
+        "blue": "Orc Walker x2"
+    },
+      "194": {
+        "title": "Assemble the HORDE!",
+        "red": "Orc Abomination",
+        "orange": "Orc Runner x5",
+        "yellow": "Orc Walker x3",
+        "blue": "Orc Walker x1"
+    },
+      "195": {
+        "title": "Assemble the HORDE!",
+        "red": "Orc Walker x6",
+        "orange": "Orc Fatty x3",
+        "yellow": "Orc Runner x4",
+        "blue": "Orc Walker x1"
+    },
+      "196": {
+        "title": "Assemble the HORDE!",
+        "red": "Orc Walker x5",
+        "orange": "Orc Walker x4",
+        "yellow": "Orc Fatty x1",
+        "blue": "Orc Runner x2"
+    },
+      "197": {
+        "title": "Assemble the HORDE!",
+        "red": "Orc Fatty x3",
+        "orange": "Orc Runner x5",
+        "yellow": "Orc Walker x4",
+        "blue": "Orc Walker x1"
+    },
+      "198": {
+        "title": "Assemble the HORDE!",
+        "red": "Orc Runner x6",
+        "orange": "Orc Walker x6",
+        "yellow": "Orc Runner x3",
+        "blue": "Orc Fatty x1"
+    },
+      "199": {
+        "title": "Assemble the HORDE!",
+        "red": "Orc Walker x8",
+        "orange": "Orc Runner x5",
+        "yellow": "Orc Fatty x2",
+        "blue": "Orc Walker x1"
+    },
+      "200": {
+        "title": "Assemble the HORDE!",
+        "red": "Orc Walker x7",
+        "orange": "Orc Fatty x2",
+        "yellow": "Orc Walker x2",
+        "blue": "Orc Fatty x1"
+    },
+      "201": {
+        "title": "Assemble the HORDE!",
+        "red": "Orc Fatty x3",
+        "orange": "Orc Walker x4",
+        "yellow": "Orc Walker x4",
+        "blue": "Orc Runner x2"
+    },
+      "202": {
+        "title": "Assemble the HORDE!",
+        "red": "Orc Runner x7",
+        "orange": "Orc Walker x5",
+        "yellow": "Orc Walker x3",
+        "blue": "Orc Fatty x1"
+    },
+      "203": {
+        "title": "Extra Activation",
+        "red": "All Orc Walkers",
+        "orange": "All Orc Walkers",
+        "yellow": "All Orc Walkers",
+        "blue": "Nobody"
+    },
+      "204": {
+        "title": "Extra Activation",
+        "red": "All Orc Walkers",
+        "orange": "All Orc Walkers",
+        "yellow": "All Orc Walkers",
+        "blue": "Nobody"
+    },
+      "205": {
+        "title": "Extra Activation",
+        "red": "All Orc Fatties",
+        "orange": "All Orc Fatties",
+        "yellow": "All Orc Fatties",
+        "blue": "Nobody"
+    },
+      "206": {
+        "title": "Extra Activation",
+        "red": "All Orc Runners",
+        "orange": "All Orc Runners",
+        "yellow": "All Orc Runners",
+        "blue": "Nobody"
     }
 }
