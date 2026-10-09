@@ -1,0 +1,162 @@
+[
+  {
+    "file": "ann-v3.png",
+    "source": "ann.png",
+    "dimensions": [
+      516,
+      258
+    ],
+    "bytes": 124584,
+    "sha256": "2059599ca970f4d48127333319f6ed89202781f66ac88d7ee0e749e7c7ddc7ca"
+  },
+  {
+    "file": "ariane-v3.png",
+    "source": "ariane.png",
+    "dimensions": [
+      516,
+      258
+    ],
+    "bytes": 126911,
+    "sha256": "147ef58d2753a7d278d97760d70b19753053df0d968c265eaaf9a59f015d5c2d"
+  },
+  {
+    "file": "asim-v3.png",
+    "source": "asim.png",
+    "dimensions": [
+      516,
+      258
+    ],
+    "bytes": 128909,
+    "sha256": "da6ddeac4925929124ebfb427d0a1e35d329ee8cbd8b56bb48c1cb2296b92ec6"
+  },
+  {
+    "file": "baldric-v3.png",
+    "source": "baldric.png",
+    "dimensions": [
+      516,
+      258
+    ],
+    "bytes": 141764,
+    "sha256": "a55207e13b57a3bff74da8d73c153b4114accf0471e4e78d833495d250646b3a"
+  },
+  {
+    "file": "berin-v3.png",
+    "source": "berin.png",
+    "dimensions": [
+      516,
+      258
+    ],
+    "bytes": 131196,
+    "sha256": "84fe414c897c5762570b923e6e05e2d4060360cdc046f53dc721cae65d8be603"
+  },
+  {
+    "file": "clovis-v3.png",
+    "source": "clovis.png",
+    "dimensions": [
+      516,
+      258
+    ],
+    "bytes": 138166,
+    "sha256": "8d784ed3a214ca3c3d5c2a8d05c55fb1bd9f471bb459867390da9e3a9f0909bd"
+  },
+  {
+    "file": "johannes-v3.png",
+    "source": "johannes.png",
+    "dimensions": [
+      516,
+      258
+    ],
+    "bytes": 128635,
+    "sha256": "9932408a2be8439c771ab6e974755ffec5c670633cf05e2e315d61d686fc1315"
+  },
+  {
+    "file": "karl-v3.png",
+    "source": "karl.png",
+    "dimensions": [
+      516,
+      258
+    ],
+    "bytes": 126866,
+    "sha256": "db34664d9ef6ab10cf9497c81cabaefb45e3a0139607c3bd94fd210c3ad00c82"
+  },
+  {
+    "file": "megan-v3.png",
+    "source": "megan.png",
+    "dimensions": [
+      516,
+      258
+    ],
+    "bytes": 140740,
+    "sha256": "8d566b47379dddf9bdb3d7095b89b987c0ff4171520db697c2ebe5751e19c493"
+  },
+  {
+    "file": "morrigan-v3.png",
+    "source": "morrigan.png",
+    "dimensions": [
+      516,
+      258
+    ],
+    "bytes": 131707,
+    "sha256": "23667cb6831a4b45aee4012a32eff3edcd142804fa236e9dc8a8181017b0282d"
+  },
+  {
+    "file": "nelly-v3.png",
+    "source": "nelly.png",
+    "dimensions": [
+      516,
+      258
+    ],
+    "bytes": 128381,
+    "sha256": "91d4ad58c643a0b76a17348cba283134446955f1a06ef9ff7e4bdfeacc421173"
+  },
+  {
+    "file": "rolf-v3.png",
+    "source": "rolf.png",
+    "dimensions": [
+      516,
+      258
+    ],
+    "bytes": 127429,
+    "sha256": "f1d9dd3c5027a42f15766d648a886d50758bf0dcaf90c061c5f06393ec41dc7e"
+  },
+  {
+    "file": "samson-v3.png",
+    "source": "samson.png",
+    "dimensions": [
+      516,
+      258
+    ],
+    "bytes": 135568,
+    "sha256": "92369ab86ec4d37bbe9821f10b8d41601cb437f7b754b380574963151680e401"
+  },
+  {
+    "file": "seli-v3.png",
+    "source": "seli.png",
+    "dimensions": [
+      516,
+      258
+    ],
+    "bytes": 129652,
+    "sha256": "ad635a538263d8d3843c7b3a0225805dbe1888119c0742abb3b4b8fe5a632dbc"
+  },
+  {
+    "file": "silas-v3.png",
+    "source": "silas.png",
+    "dimensions": [
+      516,
+      258
+    ],
+    "bytes": 140425,
+    "sha256": "8a8f6b8426ef48c5462783391aafa2465d2eed91569f3f9cc5b2093eba3fac96"
+  },
+  {
+    "file": "theo-v3.png",
+    "source": "theo.png",
+    "dimensions": [
+      516,
+      258
+    ],
+    "bytes": 134285,
+    "sha256": "2b51824a14279f73ccc0ad55bd4995ac0691b65b10eb6a521e3795a1ac9b0c1d"
+  }
+]
