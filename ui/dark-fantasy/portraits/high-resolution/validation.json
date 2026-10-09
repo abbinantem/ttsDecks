@@ -1,0 +1,217 @@
+{
+  "portraits": [
+    {
+      "name": "ann",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bytes": 2355236,
+      "sha256": "e0eb52433ccd451aaae746bb100cfeb6f45d2aa8aa981529732e72f246cbb245"
+    },
+    {
+      "name": "ariane",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bytes": 2285942,
+      "sha256": "ffc8d941fea3c0f4ff5b622ab7b87455e6848038f861fac4d55b675dd6bda0e7"
+    },
+    {
+      "name": "asim",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bytes": 2388057,
+      "sha256": "68b682090d34c359b7c11fa088190f61e39f03d92bbac49502709005c340f831"
+    },
+    {
+      "name": "baldric",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bytes": 2669619,
+      "sha256": "7d36dea9793ed1b3d096d15f10ef0c20c9056bb641f02eceac16d5d6e641db19"
+    },
+    {
+      "name": "berin",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bytes": 2403493,
+      "sha256": "8ac76c3ad5d2a92267b24cdabca5f69472abbb027840e5c5fa4948f3a5772757"
+    },
+    {
+      "name": "clovis",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bytes": 2659468,
+      "sha256": "7372c57da4febee6cbf6fb1e6dd80fa68b4179e8c16ca1561081f33648f8fbf6"
+    },
+    {
+      "name": "johannes",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bytes": 2353538,
+      "sha256": "cc68ffa3c12f6d23a4804225cd6a6ce81e2b084795eda0b78779350117740c72"
+    },
+    {
+      "name": "karl",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bytes": 2338592,
+      "sha256": "6dc36262ee2fe50a85fa6c8906b8d5c53ba5e8f5349c5883e44d0a8859f9592c"
+    },
+    {
+      "name": "megan",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bytes": 2589190,
+      "sha256": "e832aa55f9d46687f93b5b380679aba8a3a227d91e2a18b540bee0fae94c6086"
+    },
+    {
+      "name": "morrigan",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bytes": 2493882,
+      "sha256": "fb059dd03ed7fb93cf71f2607ba244213c32f7c35bac2087b10b27c0b2f1d559"
+    },
+    {
+      "name": "nelly",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bytes": 2475532,
+      "sha256": "ddcaee70d6f0581e712d597e43ef80235a8665321d1465f08343bed3ba5de3c1"
+    },
+    {
+      "name": "rolf",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bytes": 2337852,
+      "sha256": "59b32d5038cc73607aebd739519d584d9e34add04fa5c22f9105dbda57a7c7c4"
+    },
+    {
+      "name": "samson",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bytes": 2476311,
+      "sha256": "d51f3537c465e7bc2ca3e99650ad54de92758bd3bff5e87b422b2f6ab24468b2"
+    },
+    {
+      "name": "seli",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bytes": 2361493,
+      "sha256": "adac2ea3c9831f47c7ccf84342b6966b34de6500274f48e1f2821ec40835a4ca"
+    },
+    {
+      "name": "theo",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bytes": 2472662,
+      "sha256": "9065b36fdac7fe0ae296343b3cac8af45804380a66ea5a43d7526afd2eb1a60e"
+    }
+  ],
+  "silas_unchanged": true,
+  "tool": "built-in image_gen",
+  "post_generation_resize": false
+}

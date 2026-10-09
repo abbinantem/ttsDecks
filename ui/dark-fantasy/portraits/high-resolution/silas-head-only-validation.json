@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-06",
+  "tool": "built-in image_gen",
+  "prompt": "silas-head-only-prompt.txt",
+  "low_resolution_conversion": "ffmpeg Lanczos 258x258, centered on transparent 516x258 canvas",
+  "files": [
+    {
+      "path": "high-resolution/silas.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "421c664eb1461c1bb698c79782aa1d9f41c30da6ba0c0dad67e8c157dcec673d"
+    },
+    {
+      "path": "silas-v2.png",
+      "size": [
+        516,
+        258
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "6b0616bd6650b6ec5f376e3d91172cee6be3e9fbda6b764918f63104fb926426"
+    },
+    {
+      "path": "high-resolution/archive/silas-v2-before-head-only.png",
+      "size": [
+        516,
+        258
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "916a7002b57fe30c5fbe2134ea13faa2e669cb7545baa94fa991d21dec059485"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-06",
+  "tool": "built-in image_gen",
+  "prompt": "clovis-teeth-prompt.txt",
+  "low_resolution_conversion": "ffmpeg Lanczos 258x258, centered on transparent 516x258 canvas",
+  "files": [
+    {
+      "path": "high-resolution/clovis.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "4d61c68bc2cbaf5464a8dc4c81f3769d9f92840e760680b1d50354308631464c"
+    },
+    {
+      "path": "clovis-v2.png",
+      "size": [
+        516,
+        258
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "f1124ee38fa3ce4c462070399bc52411509b1d232775580ea9ceb0c854668a51"
+    }
+  ]
+}

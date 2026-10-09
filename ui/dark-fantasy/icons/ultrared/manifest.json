@@ -1,0 +1,162 @@
+{
+  "tool": "built-in image_gen",
+  "export": "ffmpeg Lanczos 128x128 RGBA",
+  "files": [
+    {
+      "path": "fantasy/diamond.png",
+      "size": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "a320a467843fa1c8446010714051172c533263d438add064317affffdfc29308"
+    },
+    {
+      "path": "fantasy/flame.png",
+      "size": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "e29423320942180d0f4a3d8bcbb56f07367512031dd4cb7fc949bef2ff668686"
+    },
+    {
+      "path": "fantasy/wax-seal.png",
+      "size": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "891d4ba2a6f53e00ca4d6f08adc984df6d5527975c434f68c151c9bd5ae9e8d7"
+    },
+    {
+      "path": "masters/fantasy-diamond.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "370090f5a5870391b5a99eb1d96f99f88a040fa8ac8687d6552dc4b00e46a29d"
+    },
+    {
+      "path": "masters/fantasy-flame.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "9c08dbdb521a9aeae025a3c61fbbd03e118311d02ecaef2e948e226d7fbec76b"
+    },
+    {
+      "path": "masters/fantasy-wax-seal.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "0285471df792f1d63449c164bcfd7d2e9b2fd4dc5e5e609751bcf97cfbb0ad1e"
+    },
+    {
+      "path": "masters/ui-diamond.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "4883ef261d0e7db67b89ccb8fa136147c6e9fd651311a525ccea52c9e1959263"
+    },
+    {
+      "path": "masters/ui-flame.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "196f8c1cda5662fd93d1f0e925547c084a414feee16e556b9562e0d49751e225"
+    },
+    {
+      "path": "masters/ui-wax-seal.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "87573f16d1edbadcd90807c704a24da9f66fe88c8e4f995da5122d1c8920a114"
+    },
+    {
+      "path": "ui/diamond.png",
+      "size": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "f7497badf9fcb4e632819da941f5778891983aacedb48ab0d9be9a898b456b62"
+    },
+    {
+      "path": "ui/flame.png",
+      "size": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "afb4c8d6eed9b8681c9d86927b133c469d15b91668c752b908dd0d5090adfd00"
+    },
+    {
+      "path": "ui/wax-seal.png",
+      "size": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "2b1dda62ebf7bdbec9647c4570571e6cb5ce7a2eb9b54317deb163582b958127"
+    }
+  ]
+}
