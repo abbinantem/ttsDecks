@@ -1,0 +1,33 @@
+{
+  "warrior_refined.glb": [
+    {
+      "exported_vertices": 77444,
+      "welded_vertices": 42440,
+      "triangles": 85000,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "invalid_mesh_data": false
+    }
+  ],
+  "tabletop/warrior_tts.obj": [
+    {
+      "exported_vertices": 8886,
+      "welded_vertices": 8886,
+      "triangles": 17988,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "invalid_mesh_data": false
+    }
+  ],
+  "tabletop/warrior_tts_collider.obj": [
+    {
+      "exported_vertices": 92,
+      "welded_vertices": 92,
+      "triangles": 180,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "invalid_mesh_data": false
+    }
+  ],
+  "tts_vertex_normal_uv_combinations": 17649
+}

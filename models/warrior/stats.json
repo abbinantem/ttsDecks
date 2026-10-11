@@ -1,0 +1,14 @@
+{
+  "model": {
+    "vertices": 8886,
+    "triangles": 17988,
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0
+  },
+  "collider": {
+    "vertices": 92,
+    "triangles": 180,
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0
+  }
+}
